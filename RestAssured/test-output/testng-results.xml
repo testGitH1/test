@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2012" started-at="2018-06-07T14:46:25Z" finished-at="2018-06-07T14:46:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2012" started-at="2018-06-07T14:46:25Z" finished-at="2018-06-07T14:46:27Z">
+      <class name="com.learn.rest.apis.SimpleGetTest">
+        <test-method status="PASS" signature="DisplayAllNodesInWeatherAPI()[pri:0, instance:com.learn.rest.apis.SimpleGetTest@604ed9f0]" name="DisplayAllNodesInWeatherAPI" duration-ms="1989" started-at="2018-06-07T14:46:25Z" finished-at="2018-06-07T14:46:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisplayAllNodesInWeatherAPI -->
+      </class> <!-- com.learn.rest.apis.SimpleGetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

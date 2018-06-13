@@ -12,6 +12,7 @@ public class ChildClass extends ParentClass
 		System.err.println(localThread.getId());
 		System.out.println(localThread.getName());
 		localThread.stop();
+		System.out.println("sleeping");
 		Thread.sleep(5000L);
 	}
 	

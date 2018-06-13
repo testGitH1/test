@@ -26,6 +26,7 @@ public class Rectangle implements Serializable {
 
 	public double Perimeter()
 	{
+		System.out.print("Returning perometer");
 		return 2 * (height + width);
 	}
 }
